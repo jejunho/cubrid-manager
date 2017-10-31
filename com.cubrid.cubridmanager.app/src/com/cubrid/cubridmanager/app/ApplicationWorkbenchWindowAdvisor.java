@@ -152,6 +152,7 @@ public class ApplicationWorkbenchWindowAdvisor extends
 				}
 			}
 		});
+		//dff
 		/*Add perspective listener*/
 		configurer.getWindow().addPerspectiveListener(new PerspectiveAdapter() {
 			public void perspectiveActivated(IWorkbenchPage page, IPerspectiveDescriptor perspective) {
